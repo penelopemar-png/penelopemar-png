@@ -2,8 +2,8 @@
 
 # Hi, I'm Penelope! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Junior+Web+Designer+%26+Developer;UI%2FUX+Enthusiast;Always+Learning%2C+Always+Creating)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=500&lines=Junior+Full-Stack+Developer;UI%2FUX+Designer;Always+Learning%2C+Always+Creating)](https://git.io/typing-svg)
 **Based in Athens, Greece** 🇬🇷
 
 I create clean, user-friendly digital experiences with a focus on **UI/UX Design** and **Full-Stack Development**.
