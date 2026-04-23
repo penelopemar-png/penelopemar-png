@@ -46,7 +46,7 @@ I create clean, user-friendly digital experiences with a focus on **UI/UX Design
 
 ## 📫 Let's Connect
 
-- 🌐 **Portfolio:** [penelopemarkatou.netlify.app](https://penelopemarkatou.netlify.app/)
+- 🌐 **Portfolio:** [pmarkatou.gr](https://pmarkatou.gr)
 - 💼 **LinkedIn:** [linkedin.com/in/penelope-markatou](https://linkedin.com/in/penelope-markatou)
 - 📧 **Email:** p.markatou@hotmail.com
 
